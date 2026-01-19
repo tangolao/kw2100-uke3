@@ -15,7 +15,6 @@ function Application() {
     }, []);
     return <>
         <h1>Hello Map Application</h1>
-        <h1>Hello Map Application</h1>
         <div ref={mapRef}>Here I want the map</div>
     </>
 
